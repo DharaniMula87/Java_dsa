@@ -1,5 +1,5 @@
 //Substraction
-class substraction 
+class subtraction 
 {
     public static void main(String[] args)
     {
